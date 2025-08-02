@@ -1,0 +1,34 @@
+🧰 Tools & Technologies Used
+🧠 AI & Frameworks
+IBM Watsonx.ai – Agent development platform
+
+IBM Granite / Mistral LLM – Language models for response generation
+
+LangGraph – Agent orchestration framework
+
+ReAct architecture – Reasoning + action flow for agents
+
+RAG (Retrieval-Augmented Generation) – Grounded AI responses
+
+📄 Knowledge & Vectorization
+IBM Watsonx Vector Index – Document-based vector search
+
+PDFs/Text files – Nutrition knowledge base used for grounding
+
+In-Memory Vector Store / Milvus (optional) – For storing embeddings
+
+🛠️ Tools & Services
+IBM Cloud Lite – Cloud infrastructure
+
+Watsonx Agent Builder – Visual interface to configure and deploy agent
+
+Google Search Tool / DuckDuckGo Search – Web tool for external info (optional)
+
+💻 Dev & Deployment
+Git & GitHub – Version control and collaboration
+
+VS Code – Code editing
+
+Markdown & YAML – Documentation and configuration
+
+(Optional frontend tools if you add UI): React.js, HTML/CSS
